@@ -2,6 +2,7 @@
 #or else change the last with ing if it does not end with ing
 #or change to ly if it ends with ing
 #input is abc o/p should be abcing i/p is string o/p is stringly
+import pdb;pdb.set_trace()
 def adding(str):
     length = len(str)
     if length < 3:
